@@ -19,73 +19,44 @@ Websites:
 export const projectsData = [
   {
     id: 1,
-    name: "EcoTracker",
-    description: "Track your carbon footprint",
-    date: "2022-08-15",
-    demoLink: "https://ecotracker.example.com",
+    name: "Movie-Insight",
+    description:
+      "Responsive web app to explore movies/TV via TMDB API with search, genre filters, and Redux-managed state.",
+    date: "2024-01-15",
+    demoLink: "https://silly-faloodeh-220392.netlify.app/",
   },
   {
     id: 2,
-    name: "ArtGallery Online",
-    description: "Digital art showcase platform",
-    date: "2022-06-20",
-    demoLink: "https://artgalleryonline.example.com",
+    name: "Amazon Clone",
+    description:
+      "E-commerce clone with user auth, add-to-cart, Stripe payments, and order history (React + Firebase + MUI).",
+    date: "2023-12-10",
+    demoLink: "https://github.com/TusharChahar2202/Amazon_clone",
   },
   {
     id: 3,
-    name: "BudgetPlanner",
-    description: "Plan and track expenses",
-    date: "2022-09-10",
-    demoLink: "https://budgetplanner.example.com",
+    name: "Book-A-Doc",
+    description:
+      "Full-stack doctor appointment booking with secure scheduling, admin panel, and real-time MongoDB integration.",
+    date: "2024-02-05",
+    demoLink: "https://github.com/TusharChahar2202/Book_A_Doc",
   },
   {
     id: 4,
-    name: "HealthBeat",
-    description: "Monitor heart rate zones",
-    date: "2022-05-30",
-    demoLink: "https://healthbeat.example.com",
+    name: "Foodie We",
+    description:
+      "Restaurant website built with React + Bootstrap 5, with polished navigation, sections, and subtle animations.",
+    date: "2023-10-20",
+    demoLink: "https://foodiewe-f6004.web.app/",
   },
   {
     id: 5,
-    name: "RecipeFinder",
-    description: "Discover new recipes",
-    date: "2022-07-12",
-    demoLink: "https://recipefinder.example.com",
-  },
-  {
-    id: 6,
-    name: "JourneyLogger",
-    description: "Log your travels",
-    date: "2022-10-01",
-    demoLink: "https://journeylogger.example.com",
-  },
-  {
-    id: 7,
-    name: "StudyBuddy",
-    description: "Collaborative learning platform",
-    date: "2022-04-18",
-    demoLink: "https://studybuddy.example.com",
-  },
-  {
-    id: 8,
-    name: "TechTalk",
-    description: "Tech news aggregator",
-    date: "2022-11-05",
-    demoLink: "https://techtalk.example.com",
-  },
-  {
-    id: 9,
-    name: "FitTrack",
-    description: "Fitness and workout tracker",
-    date: "2022-03-22",
-    demoLink: "https://fittrack.example.com",
-  },
-  {
-    id: 10,
-    name: "MindfulMoments",
-    description: "Meditation and mindfulness app",
-    date: "2022-02-14",
-    demoLink: "https://mindfulmoments.example.com",
+    name: "Time-Series Anomaly Detection",
+    description:
+      "ML pipeline for multivariate time-series anomaly detection; includes data prep, model training, and evaluation.",
+    date: "2024-06-01",
+    // TODO: replace with the exact repo path for your anomaly detection project:
+    demoLink: "https://github.com/TusharChahar2202/Multivariate-Time-Series-Anomaly-Detection.git",
   },
 ];
 
@@ -96,19 +67,19 @@ export const BtnList = [
   { label: "Contact", link: "/contact", icon: "contact", newTab: false },
   {
     label: "Github",
-    link: "https://www.github.com/codebucks27",
+    link: "https://github.com/TusharChahar2202",
     icon: "github",
     newTab: true,
   },
   {
     label: "LinkedIn",
-    link: "https://www.linkedin.com/in/codebucks",
+    link: "https://linkedin.com/in/tushar-chahar-357476299",
     icon: "linkedin",
     newTab: true,
   },
   {
     label: "X",
-    link: "https://www.x.com/code_bucks",
+    link: "https://www.instagram.com/tusharchahar22/",
     icon: "twitter",
     newTab: true,
   },
